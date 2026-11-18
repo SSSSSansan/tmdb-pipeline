@@ -1,0 +1,419 @@
+{
+  "page": 13,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 771,
+      "title": "Home Alone",
+      "original_language": "en",
+      "original_title": "Home Alone",
+      "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+      "popularity": 2.1406,
+      "poster_path": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "release_date": "1990-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.471,
+      "vote_count": 13079
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 11036,
+      "title": "The Notebook",
+      "original_language": "en",
+      "original_title": "The Notebook",
+      "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+      "popularity": 22.9155,
+      "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "release_date": "2004-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.888,
+      "vote_count": 13063
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4Xh2a1WeTp6b8Ksvug0pAMbX3dT.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 398818,
+      "title": "Call Me by Your Name",
+      "original_language": "en",
+      "original_title": "Call Me by Your Name",
+      "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+      "popularity": 12.8737,
+      "poster_path": "/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+      "release_date": "2017-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.074,
+      "vote_count": 13055
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+      "genre_ids": [
+        53,
+        18,
+        80
+      ],
+      "id": 1359,
+      "title": "American Psycho",
+      "original_language": "en",
+      "original_title": "American Psycho",
+      "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+      "popularity": 14.3828,
+      "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "release_date": "2000-04-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 13017
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/12GpsUm9nVVKFlcjDTflKLClFVA.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 82693,
+      "title": "Silver Linings Playbook",
+      "original_language": "en",
+      "original_title": "Silver Linings Playbook",
+      "overview": "After losing his job and wife, and spending time in an institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets Tiffany Maxwell who offers to help him reconnect with his wife if he will do something very important for her in exchange.",
+      "popularity": 6.8452,
+      "poster_path": "/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+      "release_date": "2012-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.153,
+      "vote_count": 12983
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wijltj1toRcicHlCn8Cpsp4yPXe.jpg",
+      "genre_ids": [
+        12,
+        16,
+        10751
+      ],
+      "id": 127380,
+      "title": "Finding Dory",
+      "original_language": "en",
+      "original_title": "Finding Dory",
+      "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+      "popularity": 8.1206,
+      "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+      "release_date": "2016-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.043,
+      "vote_count": 12979
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 872585,
+      "title": "Oppenheimer",
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      "popularity": 33.7742,
+      "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "release_date": "2023-07-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 12929
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 414906,
+      "title": "The Batman",
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "popularity": 35.5277,
+      "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "release_date": "2022-03-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 12915
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 38757,
+      "title": "Tangled",
+      "original_language": "en",
+      "original_title": "Tangled",
+      "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+      "popularity": 17.337,
+      "poster_path": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "release_date": "2010-11-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.616,
+      "vote_count": 12888
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 562,
+      "title": "Die Hard",
+      "original_language": "en",
+      "original_title": "Die Hard",
+      "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+      "popularity": 16.2492,
+      "poster_path": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "release_date": "1988-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.818,
+      "vote_count": 12881
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/77ElMccPnTMPouRxSdbJ4nEjf69.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 115,
+      "title": "The Big Lebowski",
+      "original_language": "en",
+      "original_title": "The Big Lebowski",
+      "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+      "popularity": 10.9421,
+      "poster_path": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "release_date": "1998-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.858,
+      "vote_count": 12846
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 194,
+      "title": "Amélie",
+      "original_language": "fr",
+      "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+      "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+      "popularity": 13.1319,
+      "poster_path": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+      "release_date": "2001-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.921,
+      "vote_count": 12840
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 23483,
+      "title": "Kick-Ass",
+      "original_language": "en",
+      "original_title": "Kick-Ass",
+      "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+      "popularity": 7.8842,
+      "poster_path": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+      "release_date": "2010-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.126,
+      "vote_count": 12805
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oCFVYPXI4IfhtF3GapU2jkDicDI.jpg",
+      "genre_ids": [
+        12,
+        18
+      ],
+      "id": 8358,
+      "title": "Cast Away",
+      "original_language": "en",
+      "original_title": "Cast Away",
+      "overview": "Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+      "popularity": 9.9229,
+      "poster_path": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+      "release_date": "2000-12-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.666,
+      "vote_count": 12751
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iCDMBi6WLjUBnt24dNwHqqF81UL.jpg",
+      "genre_ids": [
+        12,
+        878,
+        28
+      ],
+      "id": 1858,
+      "title": "Transformers",
+      "original_language": "en",
+      "original_title": "Transformers",
+      "overview": "Young teenager Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.",
+      "popularity": 4.2383,
+      "poster_path": "/lkZ9gqCEjzX85lKR6Jjd1uGAXNp.jpg",
+      "release_date": "2007-06-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.854,
+      "vote_count": 12748
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 36657,
+      "title": "X-Men",
+      "original_language": "en",
+      "original_title": "X-Men",
+      "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+      "popularity": 0.8568,
+      "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+      "release_date": "2000-07-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 12740
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3SozaNPOYUadcmTPgndDibMyDNC.jpg",
+      "genre_ids": [
+        878,
+        28,
+        18,
+        53
+      ],
+      "id": 119450,
+      "title": "Dawn of the Planet of the Apes",
+      "original_language": "en",
+      "original_title": "Dawn of the Planet of the Apes",
+      "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+      "popularity": 10.1103,
+      "poster_path": "/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+      "release_date": "2014-07-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.344,
+      "vote_count": 12658
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        53
+      ],
+      "id": 216015,
+      "title": "Fifty Shades of Grey",
+      "original_language": "en",
+      "original_title": "Fifty Shades of Grey",
+      "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+      "popularity": 21.5483,
+      "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+      "release_date": "2015-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.852,
+      "vote_count": 12640
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pxL08w7Eq0vKrQ3mJzYp0VHGaKG.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 49530,
+      "title": "In Time",
+      "original_language": "en",
+      "original_title": "In Time",
+      "overview": "In the not-too-distant future, the aging gene has been switched off. To avoid overpopulation, time has become the currency and the way people pay for luxuries and necessities. The rich can live forever, while the rest struggle to negotiate for their immortality. A poor young man who suddenly comes into a fortune of time finds himself on the run from a corrupt police force known as the \"time keepers\".",
+      "popularity": 13.9292,
+      "poster_path": "/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg",
+      "release_date": "2011-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.971,
+      "vote_count": 12596
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ysCmtf9Y9fLDChZ88PXId5RbLP1.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 8681,
+      "title": "Taken",
+      "original_language": "en",
+      "original_title": "Taken",
+      "overview": "Bryan Mills, a former government operative, is trying to reconnect with his teenage daughter Kim. After reluctantly agreeing with his ex-wife to let Kim go to Paris on vacation with a friend, his worst nightmare comes true. While on the phone with his daughter shortly after she arrives in Paris, she and her friend are abducted by a gang of human traffickers. Working against the clock, Bryan relies on his extensive training and skills to track down the ruthless gang that abducted her and launch a one-man war to rescue his daughter.",
+      "popularity": 14.8952,
+      "poster_path": "/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
+      "release_date": "2008-02-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.419,
+      "vote_count": 12599
+    }
+  ],
+  "total_pages": 1001,
+  "total_results": 20001
+}
