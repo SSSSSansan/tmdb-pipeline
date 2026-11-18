@@ -1,0 +1,8 @@
+requests
+python-dotenv
+confluent-kafka
+pandas
+numpy
+pandera[pandas]
+matplotlib
+seaborn
