@@ -1,5 +1,9 @@
 {
   "collected": 400,
   "produced": 400,
-  "consumed": 400
+  "consumed": 400,
+  "validated_input": 400,
+  "valid": 400,
+  "invalid": 0,
+  "cleaned": 400
 }

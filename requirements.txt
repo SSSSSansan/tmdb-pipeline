@@ -6,3 +6,4 @@ numpy
 pandera[pandas]
 matplotlib
 seaborn
+pytest
