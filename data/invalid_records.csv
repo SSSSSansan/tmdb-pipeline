@@ -1,0 +1,6 @@
+id,title,original_title,original_language,release_date,popularity,vote_average,vote_count,adult,overview,runtime,budget,revenue,status,genres,is_test_record,error_reason
+-5,TEST,TEST,en,2020-01-01,1.0,7.0,100,False,test,100,1000,2000,Released,Drama,True,id: id must be > 0 (value=-5)
+900000001,TEST,TEST,en,2020-01-01,1.0,15.0,100,False,test,100,1000,2000,Released,Drama,True,vote_average: vote_average not in 0..10 (value=15.0)
+900000002,TEST,TEST,en,2099-01-01,1.0,7.0,100,False,test,100,1000,2000,Released,Drama,True,release_date: release_date is in the future (value=2099-01-01 00:00:00)
+900000003,   ,TEST,en,2020-01-01,1.0,7.0,100,False,test,100,1000,2000,Released,Drama,True,title: title must not be empty (value=   )
+900000004,TEST,TEST,english,2020-01-01,1.0,7.0,100,False,test,9999,1000,2000,Released,Drama,True,original_language: language must be 2 letters (value=english); runtime: runtime not in 0..600 (value=9999.0)
